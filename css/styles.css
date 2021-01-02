@@ -1,0 +1,199 @@
+.nav-link{
+
+width:120px;
+
+
+
+}
+.navbar-dark .navbar-nav .nav-link {
+
+  font-size: 13px;
+    color: #fff;
+}
+
+
+
+.navbar-brand{
+width:100px;
+margin-left: 100px;
+
+}
+
+.product-iphone-x{
+
+  text-align: center;
+
+}
+.fluid{
+  padding-top: 70px;
+}
+.fluid1{
+padding-top: 20px;
+
+}
+.fluid4{
+
+padding-top: 270px;
+
+}
+.fluid5{
+
+  padding-top: 70px;
+}
+.fluid6{
+padding-top: 50px;
+
+}
+.fluid7{
+padding-top: 50px;
+
+}
+.fluid8{
+padding-top: 30px;
+
+}
+.product-ipad{background-color: #f4eeed;
+
+  text-align: center;
+}
+.product-macbookpro{background-color: black;
+  text-align: center;
+
+
+
+
+}
+.product-turnup{
+
+  text-align: center;
+}
+.ipad{
+padding-top: 70px;
+padding-bottom: 20px;
+font-size: 90px;
+font-weight: bold;
+
+}
+.macbookpro{
+
+  color: white;
+  padding-top: 70px;
+  font-size: 90px;
+  font-weight: bold;
+}
+.behind{background-image: url("C:Users/91630/Downloads/behind-the-mac.jpg");
+max-width: 100%;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+padding-top: 400px;
+    padding-bottom: 200px;
+
+
+}
+.power{
+
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.firstlinks1{
+color: white;
+text-decoration: none;
+  font-size: 20px;
+
+}
+.turnupsummer{
+
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.h34 {
+  color: white;
+  font-size: 40px;
+  font-family: sans-serif;
+  margin-right: 40px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  margin-left: 100px;
+
+}
+.h35{
+font-weight: bold;
+padding-top: 20px;
+padding-bottom: 20px;
+font-size: 40px;
+
+
+}
+.h36{
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 40px;
+color: white;
+
+}
+.h37{
+  font-weight: bold;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-size: 40px;
+
+
+}
+
+.i8{
+padding-bottom: 10px;
+
+
+}
+.i9{
+padding-bottom: 20px;
+color: white;
+
+}
+.iphonex{
+margin-top:100px;
+font-size: 90px;
+padding-top: 70px;
+padding-bottom: 10px;
+font-weight: bold;
+
+
+
+}
+
+.firstlinks{
+  text-decoration: none;
+  font-size: 20px;
+
+}
+.small-links{
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+h3{
+font-family: sans-serif;
+padding-bottom: 20px;
+}
+.bottom-container {
+  background-color: #bedcfa;
+  padding: 3.125rem 0 1.25rem;
+  text-align: center;
+}
+.footer-link {
+  padding: 1.875rem;
+  font-size: 1.25rem;
+  text-decoration: none;
+  color:#16c79a ;
+  text-align: center;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
